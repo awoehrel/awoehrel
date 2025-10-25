@@ -1,6 +1,6 @@
 ## Hi There !
 
-I'm **Aubin**, a marine biologist and scientific diver working the **STARESO marine station in Corsica**. My coding activity is mostly related to statistics, data cleaning/managing, ecological modelling, or anything related to marine biology. Part of my work is focused on zooplankton ecology, the rest is pretty diverse.
+I'm **Aubin**, a marine biologist and scientific diver working the **STARESO marine station in Corsica**. My coding activity is mostly related to statistics, data cleaning/managing, ecological modelling, or anything related to marine biology and zooplankton ecology.
 
 Sometimes messing around with other skills or langages for fun and learning purposes (3D, music, electronics...). Contact me if you want, and most of all, have a great day ! 
 
