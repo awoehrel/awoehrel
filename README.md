@@ -7,7 +7,7 @@ Sometimes messing around with other skills or langages for fun and learning purp
 ### Dailys
 [![Dailys](https://skillicons.dev/icons?i=r,obsidian,git,github,windows,vscode)](https://skillicons.dev)
 
-### Other skills
+### Skills in progress
 [![Other skills](https://skillicons.dev/icons?i=postgres,html,py,linux,blender,ableton)](https://skillicons.dev)
 
 <!--
