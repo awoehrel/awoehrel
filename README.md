@@ -1,14 +1,14 @@
-## Hi There
+## Hi There !
 
-I'm Aubin, a marine biologist and scientific diver working the STARESO marine station in Corsica. My coding activity is mostly related to statistics, data cleaning/managing, ecological modelling, or anything related to marine biology. Part of my work is focused on zooplankton ecology, the rest is pretty diverse.
+I'm **Aubin**, a marine biologist and scientific diver working the **STARESO marine station in Corsica**. My coding activity is mostly related to statistics, data cleaning/managing, ecological modelling, or anything related to marine biology. Part of my work is focused on zooplankton ecology, the rest is pretty diverse.
 
-Sometimes messing around with other skills or langages for fun and learning purposes (3D, music, electronics...). Contact me if you want, and have a great day  ! 
+Sometimes messing around with other skills or langages for fun and learning purposes (3D, music, electronics...). Contact me if you want, and most of all, have a great day ! 
 
 ### Dailys
 [![Dailys](https://skillicons.dev/icons?i=r,obsidian,git,github,windows,vscode)](https://skillicons.dev)
 
 ### Other skills
-[![Other skills](https://skillicons.dev/icons?i=postgres,html,py,linux,blender,ableton,vscode)](https://skillicons.dev)
+[![Other skills](https://skillicons.dev/icons?i=postgres,html,py,linux,blender,ableton)](https://skillicons.dev)
 
 <!--
 **awoehrel/awoehrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
